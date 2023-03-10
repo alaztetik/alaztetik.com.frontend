@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/alazteti/site/build
-    - cp -R $DEPLOYPATH/. /home/alazteti/public_html
